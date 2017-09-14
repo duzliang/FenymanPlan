@@ -8,6 +8,7 @@
 > * "number"      =>数值
 > * "object"          =>对象或null
 > * "function"      =>函数
+> 注意：未初始化和未声明的变量执行typeof操作符都会返回undefined
 
 #### Example
 
